@@ -33,8 +33,10 @@ body {
 
 .site-header h1 {
   margin: 0;
+  font-family: "Manrope", sans-serif;
   font-size: 2.4rem;
-  letter-spacing: -0.06em;
+  font-weight: 800;
+  letter-spacing: -0.04em;
 }
 
 .site-header p {
