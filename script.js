@@ -26,7 +26,7 @@ const cards = [
     id: "prompt-2",
     type: "prompt",
     prompt: "A green flag I look for...",
-    answer: "Someone who is kind under stress and curious about the world."
+    answer: "Someone who comes with 6 portable flotation devices"
   },
   {
     id: "photo-3",
