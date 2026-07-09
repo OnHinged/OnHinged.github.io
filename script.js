@@ -5,7 +5,7 @@ const cards = [
   {
     id: "photo-1",
     type: "image",
-    image: "photos/photo1.jpg",
+    image: "photos/IMG_5485.jpeg",
     alt: "Portrait photo",
     caption: "This is where your caption goes. Replace photos/photo1.jpg with your own image."
   },
@@ -18,7 +18,7 @@ const cards = [
   {
     id: "photo-2",
     type: "image",
-    image: "photos/photo2.jpg",
+    image: "photos/IMG_5504.jpeg",
     alt: "Running photo",
     caption: "Another photo module. Add as many of these as you want."
   },
@@ -27,7 +27,14 @@ const cards = [
     type: "prompt",
     prompt: "A green flag I look for...",
     answer: "Someone who is kind under stress and curious about the world."
-  }
+  },
+  {
+    id: "photo-3",
+    type: "image",
+    image: "photos/IMG_5504.jpeg",
+    alt: "Running photo",
+    caption: "Another photo module. Add as many of these as you want."
+  },
 ];
 
 const cardContainer = document.querySelector("#cardContainer");
