@@ -19,21 +19,21 @@ const cards = [
   {
     id: "prompt-1",
     type: "prompt",
-    prompt: "Together we could...",
-    answer: "Win trivia night, then pretend we were humble about it."
+    prompt: "A green flag I look for...",
+    answer: "Someone who comes with 6 portable flotation devices"
   },
   {
     id: "photo-2",
     type: "image",
     image: "photos/IMG_5504.jpeg",
     alt: "Running photo",
-    caption: "Another photo module. Add as many of these as you want."
+    caption: "Comes with 6 portable flotation devices"
   },
   {
     id: "prompt-2",
     type: "prompt",
-    prompt: "A green flag I look for...",
-    answer: "Someone who comes with 6 portable flotation devices"
+    prompt: "Together we could...",
+    answer: "Win trivia night, then pretend we were humble about it"
   },
   {
     id: "photo-3",
