@@ -38,9 +38,9 @@ const cards = [
   {
     id: "photo-3",
     type: "image",
-    image: "photos/IMG_5504.jpeg",
+    image: "photos/IMG_2.jpeg",
     alt: "Running photo",
-    caption: "Another photo module. Add as many of these as you want."
+    caption: "This could be us"
   },
 ];
 
