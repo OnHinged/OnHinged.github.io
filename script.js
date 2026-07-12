@@ -40,7 +40,7 @@ const cards = [
     id: "prompt-2",
     type: "prompt",
     prompt: "Together we could...",
-    answer: "Run 17.5 miles together"
+    answer: "Run 17.5 miles to Santa Monica"
   },
   {
     id: "photo-3",
