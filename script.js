@@ -12,7 +12,7 @@ const cards = [
   {
     id: "photo-10",
     type: "image",
-    image: "Screenshot_2200.jpg",
+    image: "photos/Screenshot_2200.jpg",
     alt: "Portrait photo",
     caption: "Date night with us looks like"
   },
