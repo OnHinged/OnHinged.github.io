@@ -10,6 +10,13 @@ const cards = [
     caption: "Snatching records and stealing hearts <3"
   },
   {
+    id: "photo-10",
+    type: "image",
+    image: "Screenshot_2200.jpg",
+    alt: "Portrait photo",
+    caption: "Date night with us looks like"
+  },
+  {
     id: "photo-1",
     type: "image",
     image: "photos/IMG_5485.jpeg",
