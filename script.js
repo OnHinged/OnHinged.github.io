@@ -33,7 +33,7 @@ const cards = [
     id: "prompt-2",
     type: "prompt",
     prompt: "Together we could...",
-    answer: "Win trivia night, then pretend we were humble about it"
+    answer: "Run 17.5 miles together"
   },
   {
     id: "photo-3",
