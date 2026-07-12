@@ -42,6 +42,13 @@ const cards = [
     alt: "Running photo",
     caption: "This could be us"
   },
+  {
+    id: "photo-4",
+    type: "image",
+    image: "photos/PXL_20260704_003941580.jpg",
+    alt: "Running photo",
+    caption: "Guess our astrology sign"
+  },
 ];
 
 const cardContainer = document.querySelector("#cardContainer");
