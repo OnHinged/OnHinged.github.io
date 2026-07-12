@@ -14,7 +14,7 @@ const cards = [
     type: "image",
     image: "photos/IMG_5485.jpeg",
     alt: "Portrait photo",
-    caption: "This is where your caption goes. Replace photos/photo1.jpg with your own image."
+    caption: "#Candid"
   },
   {
     id: "prompt-1",
