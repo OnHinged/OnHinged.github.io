@@ -54,7 +54,7 @@ const cards = [
     type: "image",
     image: "photos/PXL_20260704_020406024.MP.jpg",
     alt: "Running photo",
-    caption: "Unhinged Rawr"
+    caption: "#Unhinged"
   },  
 ];
 
