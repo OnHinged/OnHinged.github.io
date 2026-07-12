@@ -38,7 +38,7 @@ const cards = [
   {
     id: "photo-3",
     type: "image",
-    image: "photos/IMG_2.jpeg",
+    image: "photos/IMG_2.jpg",
     alt: "Running photo",
     caption: "This could be us"
   },
