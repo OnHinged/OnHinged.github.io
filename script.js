@@ -49,6 +49,13 @@ const cards = [
     alt: "Running photo",
     caption: "Guess our astrology sign"
   },
+  {
+    id: "photo-5",
+    type: "image",
+    image: "photos/PXL_20260704_020406024.MP.jpg",
+    alt: "Running photo",
+    caption: "Unhinged Rawr"
+  },  
 ];
 
 const cardContainer = document.querySelector("#cardContainer");
