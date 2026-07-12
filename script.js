@@ -7,7 +7,7 @@ const cards = [
     type: "image",
     image: "photos/IMG_1768.jpeg",
     alt: "Portrait photo",
-    caption: "This is where your caption goes. Replace photos/photo1.jpg with your own image."
+    caption: "Snatching records and stealing hearts <3"
   },
   {
     id: "photo-1",
